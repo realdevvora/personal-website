@@ -13,7 +13,7 @@ export default function Hero() {
         <h1 className="font-bold text-2xl mb-2">Hi! My name is Dev.</h1>
         <p>Welcome to my website</p>
         <button className="mt-4 bg-white text-blue-900 py-2 px-4 rounded-full animate-pulse" onClick={scrollToNextSection}>
-          Explore More
+          Learn more about me
         </button>
       </div>
       <img
