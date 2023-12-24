@@ -17,7 +17,7 @@ export default function Hero() {
         </button>
       </div>
       <img
-        src="./public/project pfp.jpeg"
+        src="/project pfp.jpeg"
         alt="Picture of me"
         className="max-w-64 border-4 border-orange-300 rounded-full ml-4"
       />
